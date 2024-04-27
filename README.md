@@ -15,12 +15,16 @@ This repository contains exercises and projects for practicing machine learning 
 - TensorFlow
 
 ### To-Do:
-- [x] Linear Regression
-- [x] Logistic Regression
+- [x] Regression Models
+- [x] Classification Models
+- [ ] Clustering Algorithms
 - [ ] Neural Networks
-- [ ] Decision Trees
+- [ ] Dimensionality Reduction
+- [ ] Decision Making Algorithms
+- [ ] Deep Learning Applications
 - [ ] Image Classification with CNNs
 - [ ] Sentiment Analysis using RNNs
+- [ ] Natural Language Processing (NLP)
 
 Feel free to explore, contribute, and learn! :wink:	
 
